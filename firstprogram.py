@@ -51,7 +51,7 @@ print("The sum is " +str(sum2)+ "and the type is " + str(type(sum2))) """
 
 #print("apple"<"Apple")
 
-print("apple"<"banana")
+""" print("apple"<"banana")
 
 print(ord('😩'))
 
@@ -59,3 +59,18 @@ print(chr(128553))
 
 print(chr(87))
 print(chr(91))
+ """
+#Write a program that prints a short poem using \n.
+""" print("My feelings for you still linger \n"
+      "Its both a curse and a blessing \n"
+      "The days when I am happy its a curse \n"
+      "because it reminds me how happy I was with you \n"
+      "And a blessing in those days when I am at my lowest \n"
+      "because it reminds me how happy I can be \n"
+      "I hope when I die and my ashes are poured in the same river as yours \n"
+      "So that when my ashes meets yours \n"
+      "I will be able to say you everything I couldnt") 
+ """
+#Write a short program to print something inside quotation.
+
+print(f"Hello my name is Ken and I beileve in the quote \"nothing is free everything is permitted\"")
