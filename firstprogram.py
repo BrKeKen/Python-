@@ -79,4 +79,22 @@ path1 = "C:\\Users\\User\\OneDrive\\Pictures"
 print(path1)
  """
 
+#AND -1 only where both bits are 1
 print(5&3)
+
+#bin shows the binary representation of any number
+print(bin(4))
+
+#OR -1 where either bit is 1
+print(5|3)
+
+#XOR -1 where bits are different
+print(5^3)
+
+#Left shift  multiple by powers of 2
+print(5 << 1) # 5 * 2
+print(5 << 2) # 5 * 4
+
+#Right shift - divide by powers of 2
+print(20 >> 1) #20 divied by 2
+print(20 >> 2) #20 divied by 4
