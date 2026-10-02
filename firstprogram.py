@@ -74,3 +74,6 @@ print(chr(91))
 #Write a short program to print something inside quotation.
 
 print(f"Hello my name is Ken and I beileve in the quote \"nothing is free everything is permitted\"")
+
+path1 = "C:\\Users\\User\\OneDrive\\Pictures"
+print(path1)
