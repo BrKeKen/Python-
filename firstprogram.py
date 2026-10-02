@@ -52,3 +52,10 @@ print("The sum is " +str(sum2)+ "and the type is " + str(type(sum2))) """
 #print("apple"<"Apple")
 
 print("apple"<"banana")
+
+print(ord('😩'))
+
+print(chr(128553))
+
+print(chr(87))
+print(chr(91))
