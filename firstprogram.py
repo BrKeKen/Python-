@@ -92,7 +92,7 @@ print(5|3)
 print(5^3) # for eg if there is same bits such as 1 and 1 then the result is 0 but if there is diff such as 0 and 1 then the result is 1
 
 #Left shift  multiple by powers of 2
-print(5 << 1) # 5 * 2
+print(5 << 1) # 5 * 2 #binary digits move to left
 print(5 << 2) # 5 * 4
 
 #Right shift - divide by powers of 2
