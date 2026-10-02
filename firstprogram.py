@@ -43,8 +43,12 @@ num4 = int(input("Enter num4"))
 sum2 = num3 + num4
 print("The sum is " +str(sum2)+ "and the type is " + str(type(sum2))) """
 
-print(5 and 6 or "Success")
+#print(5 and 6 or "Success")
 
 #Did any changes occur in the thing?
 
-print("Looking for changes")
+#print("Looking for changes")
+
+#print("apple"<"Apple")
+
+print("apple"<"banana")
