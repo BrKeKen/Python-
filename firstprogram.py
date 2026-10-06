@@ -79,7 +79,7 @@ path1 = "C:\\Users\\User\\OneDrive\\Pictures"
 print(path1)
  """
 
-#AND -1 only where both bits are 1
+#AND -1 only where both bits a""" re 1
 print(5&3)
 
 #bin shows the binary representation of any number
@@ -97,4 +97,6 @@ print(5 << 2) # 5 * 4
 
 #Right shift - divide by powers of 2
 print(20 >> 1) #20 divied by 2
-print(20 >> 2) #20 divied by 4
+print(20 >> 2) #20 divied by 4 """
+
+print(~5)
