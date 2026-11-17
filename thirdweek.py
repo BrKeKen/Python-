@@ -1,5 +1,10 @@
-num1 ='8'
+""" num1 ='8'
 num2='9'
-print(type(num1))
 num3=int(num1)
-print(num3)
+num4=int(num2)
+sum= num3+num4
+print(sum) """
+
+import math
+a=9.87
+print(math.trunc(a))
