@@ -6,7 +6,7 @@ user=input("Enter your username: ")
 a=len(user)
 if(a>4):
  password=input("Enter your password: ")
- print(user)
- print(password)
+ print("user:",user)
+ print("password:",password)
 else:
  print("Invalid username")
