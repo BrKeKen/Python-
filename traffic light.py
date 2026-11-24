@@ -7,7 +7,8 @@ color should be entered by the user and can be any color
  """
 
 
-light=input("Enter any color: r")
+color=input("Enter any color: ")
+light= color.lower()
 if(light=="red"):
     print("Stop")
 elif(light=="yellow"):
