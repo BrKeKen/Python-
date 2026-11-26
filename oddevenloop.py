@@ -27,10 +27,12 @@ for i in range(a):
         print("Even")
     else:
         print("Odd") """
+""" 
 import time
 a=int(input("Enter starting timer: "))
 for i in range(a,0,-1): 
     print(i)
     time.sleep(1)
-print("Time's up!")
-    
+print("Time's up!") """
+
+print("बाटोमा मेरो स्कुटरको टायर पन्चर भयो, त्यसैले म कक्षामा ढिलो पुगें।")
