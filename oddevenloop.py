@@ -5,7 +5,7 @@ for i in range(a,b):
         print("Even")
     else:
         print("Odd") """
-
+""" 
 start = int(input("Enter the starting number: "))
 end = int(input("Enter the ending number: "))
 a=0
@@ -18,4 +18,19 @@ for i in range(start, end + 1):
         b = b + 1
         print(f"{i} is Odd")    
 print("Total Even numbers: ",a)
-print("Total Odd numbers:",b)
+print("Total Odd numbers:",b) """
+""" 
+a= int(input("Enter the length: "))
+for i in range(a):
+    c=int(input("Enter a number: "))
+    if c % 2 == 0:
+        print("Even")
+    else:
+        print("Odd") """
+import time
+a=int(input("Enter starting timer: "))
+for i in range(a,0,-1): 
+    print(i)
+    time.sleep(1)
+print("Time's up!")
+    
